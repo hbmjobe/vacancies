@@ -1,0 +1,40 @@
+/**
+	1. the vacancies are an array of individual listings
+	2. listing:
+		- id => the id of the entry. integer datatype
+		- job_title => string datatype
+		- reports_to => string datatype
+		- responsibilities => array of all the responsibilities of the post. array datatype
+		- qualifications => array of all the required qualifications. array datatype
+		- experince => array of all the required experience. array datatype
+		- address_to => nullable field. the address if requred to physically submit the application. array datatype? (for easy styling of the items)
+		- email_to => the email address if required to submit the application through email. nullable field. string datatype
+		- deadline => submition deadline. string datatype. to be used to programitacally select the items to display. 
+*/
+{
+	
+	"vacancies": [
+		{
+			"id" : 0,
+			"job_title" : "",
+			"reports_to" : "",
+			"responsibilities" : [],
+			"qualifications" : [],
+			"experience" : [],
+			"address_to" : [],
+			"email_to" : "",
+			"deadline" : ""
+		},
+		{
+			"id" : 1,
+			"job_title" : "",
+			"reports_to" : "",
+			"responsibilities" : [],
+			"qualifications" : [],
+			"experience" : [],
+			"address_to" : [],
+			"email_to" : "",
+			"deadline" : ""
+		}
+	]
+}
