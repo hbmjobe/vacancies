@@ -14,14 +14,14 @@
 		},
 		{
 			"id" : 1,
-			"job_title" : "",
-			"reports_to" : "",
-			"responsibilities" : [],
-			"qualifications" : [],
-			"experience" : [],
+			"job_title" : "Software Developer - Intern",
+			"reports_to" : "Cheif Technology Officer",
+			"responsibilities" : ["code reviews", "implement modules"],
+			"qualifications" : ["BSc Computer Science", "React Native", "PHP", "JavaSE"],
+			"experience" : ["not required"],
 			"address_to" : [],
-			"email_to" : "",
-			"deadline" : ""
+			"email_to" : "masdev@gmail.com",
+			"deadline" : "25th April 2017"
 		}
 	]
 }
