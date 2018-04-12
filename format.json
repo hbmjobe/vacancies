@@ -16,14 +16,14 @@
 	"vacancies": [
 		{
 			"id" : 0,
-			"job_title" : "",
-			"reports_to" : "",
-			"responsibilities" : [],
-			"qualifications" : [],
-			"experience" : [],
-			"address_to" : [],
+			"job_title" : "General Manager",
+			"reports_to" : "CEO",
+			"responsibilities" : ["run the business", "everything else"],
+			"qualifications" : ["MSc Management", "French"],
+			"experience" : ["ran a company before", "3 yrs working experience"],
+			"address_to" : ["masDev", "South Atlantic Road", "Fajara"],
 			"email_to" : "",
-			"deadline" : ""
+			"deadline" : "25th February 2019"
 		},
 		{
 			"id" : 1,
